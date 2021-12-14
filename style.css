@@ -1,0 +1,31 @@
+
+h1 {
+  color: brown;
+}
+
+* {
+  border: solid;
+}
+p,h2{
+  text-align: center;
+}
+.header{
+  color:pink;
+  background-color: pink;
+  display: flex;
+  justify-content: space-between;
+}
+.grid{
+    color:aqua;
+    background-color:blueviolet;
+    display:flex;
+flex-wrap: wrap;
+justify-content:space-evenly;
+}
+
+.footer{
+    color:coral;
+    background-color:darkgreen;
+    display:flex;
+justify-content:flex-end;
+}
